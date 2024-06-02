@@ -326,7 +326,7 @@ Digunakan untuk mencari nama depan guru yang memiliki `usia` tertinggi dan `usia
 # Hapus Database 
 ## Query 
 
-```
+```mysql
 DROP TABLE sekolah_ardi;
 ```
 
